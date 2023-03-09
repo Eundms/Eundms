@@ -38,7 +38,7 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/Responsibility-02E6B4?style=flat&logoColor=white"/>
             <br/><br/>
             <!--------------------------------------------------------------->
-            <h1 style="font-weight:bold;">[ Log Dev Life ]</h1>
+            <h1 style="font-weight:bold;">[ Log Dev History ]</h1>
             <!--SSAFFY---------------------->
             <h2 style="font-weight:bold;">__________ 💻  in SSAFY 9th  💻 __________</h2>
             <small>2023.01.04. ~</small>
