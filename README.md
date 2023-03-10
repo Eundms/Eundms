@@ -70,7 +70,8 @@ Here are some ideas to get you started:
                 </td>
                 <td>
                     2022 공개SW개발자대회/학생부문_동상
-                    <a href="https://www.oss.kr/dev_competition_activities/show/0d71c04a-b0f7-42f3-8fce-c0868817383d?page=2">🌐</a>
+                    <a href="https://www.oss.kr/dev_competition_activities/show/0d71c04a-b0f7-42f3-8fce-c0868817383d?page=2">🌐</a><br/>
+                    2022 IT 대학 소프트웨어 공모전_금상
                 </td>
                 </tr>
                 <!--BlurSome-->
@@ -137,6 +138,15 @@ Here are some ideas to get you started:
                     [Study] Cloud  (Docker, Kubernetes)<br/>
                     [Study] MSA  <br/>
                     [Study] System Design Interview Book
+                </td>
+                </tr>
+                <tr align="left">
+                <td>
+                    Google Developers Machine Learning Bootcamp
+                </td>
+                <td>
+                    [COURSES] Coursera Deep Learning Specialization Courses<br/>
+                    [CERTIFICATE] TensorFlow Developer Certifiace<br/>
                 </td>
                 </tr>
             </table>  
