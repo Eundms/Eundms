@@ -85,6 +85,18 @@ Here are some ideas to get you started:
                     2022 공개SW개발자대회/학생부문_동상
                     <a href="https://www.oss.kr/dev_competition_activities/show/5856b086-b27e-475e-87b7-a16687db489a?page=2">🌐</a>
                 </td>
+               </tr>
+               <!--SSU HackJumCalculator-->
+                <tr align="left">
+                <td>
+                    <a href="https://github.com/Eundms/SSU_HackjumCalculator">🏠</a>
+                </td>
+                <td >
+                    SSU_HackjumCalculator : <small>숭실대 전체/학기별-교양/전공 평균평점 계산 코드</small>
+                </td>
+                <td>
+                    <!--<a href="">🌐</a>-->
+                </td>
                 </tr>
                   <!--Extendable Chat Server-->
                 <tr align="left">
