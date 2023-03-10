@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
             <h1 style="font-weight:bold;"> [ EunJeong Park <small>: Eundms</small>] </h1>
-            <h2 style="font-weight:bold;" >________🔜 Backend Developer________</h2>
+            <h2 style="font-weight:bold;" >🔜 Backend Developer</h2>
             <!--CONTACT-->
             <a href="https://www.linkedin.com/in/eunjeongpark/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a><br/>
             <!--SKIILS-->
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
             <!--------------------------------------------------------------->
             <h1 style="font-weight:bold;">[ Log Dev History ]</h1>
             <!--SSAFFY---------------------->
-            <h2 style="font-weight:bold;">__________ 💻  in SSAFY 9th  💻 __________</h2>
+            <h2 style="font-weight:bold;"> 💻  in SSAFY 9th  💻 </h2>
             <small>2023.01.04. ~</small>
             <h3 style="font-weight:bold;">Study</h3>
             <table>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
             </table>  
             <br/>
             <!--SOONGSIL UNIVERSITY---------------------->
-            <h2 style="font-weight:bold;">__________ 🎓 in Soongsil Univ. 🎓 __________</h2>
+            <h2 style="font-weight:bold;"> 🎓 in Soongsil Univ. 🎓 </h2>
             <small>2018.03.01. ~ 2023.02.17.</small>
             <!--Soongsil - Projects & Awards-->
             <h3 style="font-weight:bold;">Projects & Awards</h3>
@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 <!--Daily Life-->
 <div align="center">
-    <h2 style="font-weight:bold;">__________ 🐢 Daily Life 🐢__________</h2>
+    <h2 style="font-weight:bold;"> 🐢 Daily Life 🐢</h2>
     <table width="100%">
     <tr align="center">
     <td valign="middle" >
