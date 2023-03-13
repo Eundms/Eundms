@@ -146,7 +146,7 @@ Here are some ideas to get you started:
                 </td>
                 <td>
                     [COURSES] Coursera Deep Learning Specialization Courses<br/>
-                    [CERTIFICATE] TensorFlow Developer Certifiace<br/>
+                    [CERTIFICATE] TensorFlow Developer Certificate<br/>
                 </td>
                 </tr>
             </table>  
