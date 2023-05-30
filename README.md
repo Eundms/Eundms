@@ -53,6 +53,20 @@ Here are some ideas to get you started:
                 </td>
                 </tr>
             </table>  
+            <h3 style="font-weight:bold;">Project</h3>
+            <table>
+                <!--TripMe-->
+                <tr align="left">
+                <td>
+                    <a href="https://github.com/TripMe-23-08">🏠</a>
+                </td>
+                <td >
+                    Domestic Tour Plan Web Site  : <small>Trip Me</small>
+                </td>
+                <td>
+                </td>
+                </tr>
+            </table>
             <br/>
             <!--SOONGSIL UNIVERSITY---------------------->
             <h2 style="font-weight:bold;"> 🎓 in Soongsil Univ. 🎓 </h2>
