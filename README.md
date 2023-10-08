@@ -42,6 +42,7 @@ Here are some ideas to get you started:
             <!--SSAFFY---------------------->
             <h2 style="font-weight:bold;"> 💻  in SSAFY 9th  💻 </h2>
             <small>2023.01.04. ~</small>
+   <!--
             <h3 style="font-weight:bold;">Study</h3>
             <table>
                 <tr>
@@ -53,9 +54,11 @@ Here are some ideas to get you started:
                 </td>
                 </tr>
             </table>  
+   -->
+   <!--
             <h3 style="font-weight:bold;">Project</h3>
             <table>
-                <!--TripMe-->
+                <TripMe>
                 <tr align="left">
                 <td>
                     <a href="https://github.com/TripMe-23-08">🏠</a>
@@ -67,6 +70,7 @@ Here are some ideas to get you started:
                 </td>
                 </tr>
             </table>
+   -->
             <br/>
             <!--SOONGSIL UNIVERSITY---------------------->
             <h2 style="font-weight:bold;"> 🎓 in Soongsil Univ. 🎓 </h2>
