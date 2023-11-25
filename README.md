@@ -117,18 +117,6 @@ Here are some ideas to get you started:
                     <!--<a href="">🌐</a>-->
                 </td>
                 </tr>
-                  <!--Extendable Chat Server-->
-                <tr align="left">
-                <td>
-                    <a href="https://github.com/Soongsil-Developers/22sdc-1st-extendable-chatting-be">🏠</a>
-                </td>
-                <td >
-                    Extendable Chat Server : <small>확장성있는웹채팅서버</small>
-                </td>
-                <td>
-                    <!--<a href="">🌐</a>-->
-                </td>
-                </tr>
                 <!--Taxmate-->
                 <tr align="left">
                 <td>
