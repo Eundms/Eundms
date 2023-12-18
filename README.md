@@ -37,11 +37,11 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/Self_Management-729ff2?style=flat&logoColor=white"/>
             <img src="https://img.shields.io/badge/Responsibility-02E6B4?style=flat&logoColor=white"/>
             <br/><br/>
-            <!--------------------------------------------------------------->
-            <h1 style="font-weight:bold;">[ Log Dev History ]</h1>
-            <!--SSAFFY---------------------->
+            <!-------------------------------------------------------------
+            <h1 style="font-weight:bold;">[ Log Dev History ]</h1>-->
+            <!--SSAFFY--------------------
             <h2 style="font-weight:bold;"> 💻  in SSAFY 9th  💻 </h2>
-            <small>2023.01.04. ~</small>
+            <small>2023.01.04. ~</small>-->
    <!--
             <h3 style="font-weight:bold;">Study</h3>
             <table>
@@ -72,13 +72,13 @@ Here are some ideas to get you started:
             </table>
    -->
             <br/>
-            <!--SOONGSIL UNIVERSITY---------------------->
+            <!--SOONGSIL UNIVERSITY------------------
             <h2 style="font-weight:bold;"> 🎓 in Soongsil Univ. 🎓 </h2>
-            <small>2018.03.01. ~ 2023.02.17.</small>
-            <!--Soongsil - Projects & Awards-->
+            <small>2018.03.01. ~ 2023.02.17.</small>---->
+            <!--Soongsil - Projects & Awards
             <h3 style="font-weight:bold;">Projects & Awards</h3>
-            <table>
-                <!--SSUPAGO-->
+            <table>-->
+                <!--SSUPAGO
                 <tr align="left">
                 <td>
                     <a href="https://github.com/SSUPAGO">🏠</a>
@@ -91,8 +91,8 @@ Here are some ideas to get you started:
                     <a href="https://www.oss.kr/dev_competition_activities/show/0d71c04a-b0f7-42f3-8fce-c0868817383d?page=2">🌐</a><br/>
                     2022 IT 대학 소프트웨어 공모전_금상
                 </td>
-                </tr>
-                <!--BlurSome-->
+                </tr>-->
+                <!--BlurSome
                 <tr align="left">
                 <td>
                     <a href="https://github.com/Blursome-2022">🏠</a>
@@ -104,8 +104,8 @@ Here are some ideas to get you started:
                     2022 공개SW개발자대회/학생부문_동상
                     <a href="https://www.oss.kr/dev_competition_activities/show/5856b086-b27e-475e-87b7-a16687db489a?page=2">🌐</a>
                 </td>
-               </tr>
-               <!--SSU HackJumCalculator-->
+               </tr>-->
+               <!--SSU HackJumCalculator
                 <tr align="left">
                 <td>
                     <a href="https://github.com/Eundms/SSU_HackjumCalculator">🏠</a>
@@ -113,11 +113,11 @@ Here are some ideas to get you started:
                 <td >
                     SSU_HackjumCalculator : <small>숭실대 전체/학기별-교양/전공 평균평점 계산 코드</small>
                 </td>
-                <td>
-                    <!--<a href="">🌐</a>-->
+                <td>-->
+                    <!--<a href="">🌐</a>
                 </td>
-                </tr>
-                <!--Taxmate-->
+                </tr>-->
+                <!--Taxmate
                 <tr align="left">
                 <td>
                     <a href="https://github.com/SSU-Taxmate">🏠</a>
@@ -130,11 +130,11 @@ Here are some ideas to get you started:
                     <a href=""></a>
                 </td>
                 </tr>
-            </table>  
-            <!--Soongsil - Activities-->
+            </table>  -->
+            <!--Soongsil - Activities
             <h3 style="font-weight:bold;">Activities</h3>
-            <table name="activities">
-                <!--GDSC-->
+            <table name="activities">-->
+                <!--GDSC
                 <tr align="left">
                 <td>
                     GDSC SoongSil : <small>Server/Cloud</small>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
                 </td>
                 </tr>
             </table>  
-</div>
+</div>-->
 
 <!--Daily Life-->
 <div align="center">
