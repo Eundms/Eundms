@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-            <h1 style="font-weight:bold;"> [ EunJeong Park <small>: Eundms</small>] </h1>
-            <!--<h2 style="font-weight:bold;" >🔜 Backend Developer</h2>
+           <!-- <h1 style="font-weight:bold;"> [ EunJeong Park <small>: Eundms</small>] </h1>
+            <h2 style="font-weight:bold;" >🔜 Backend Developer</h2>
             CONTACT
             <a href="https://www.linkedin.com/in/eunjeongpark/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a><br/>-->
             <!--SKIILS-->
