@@ -170,6 +170,7 @@ Here are some ideas to get you started:
             alt="https://solved.ac/dms">
         </a>
     </td>
+      <!--
     <td valign="middle" >
         <h3 style="font-weight:bold;"> [  Recent Blog Post  ]</h3>
         <a href="https://eundms.tistory.com/" rel="stylesheet">
@@ -177,6 +178,7 @@ Here are some ideas to get you started:
             alt="https://eundms.tistory.com/">
         </a> 
     </td>
+       -->
     </tr>
     </table>  
 </div>
