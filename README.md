@@ -21,18 +21,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-           <!-- <h1 style="font-weight:bold;"> [ EunJeong Park <small>: Eundms</small>] </h1>
-            <h2 style="font-weight:bold;" >🔜 Backend Developer</h2>
-            CONTACT
+           <!-- 
             <a href="https://www.linkedin.com/in/eunjeongpark/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a><br/>-->
             <!--SKIILS-->
             <h3 style="font-weight:bold;">SKILLS</h3>
             <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-            <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <br/>
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
             <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flate&logo=javascript&logoColor=%23F7DF1E"/>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
             <h3 style="font-weight:bold;">KEY SKILLS</h3>
             <img src="https://img.shields.io/badge/Self_Management-729ff2?style=flat&logoColor=white"/>
             <img src="https://img.shields.io/badge/Responsibility-02E6B4?style=flat&logoColor=white"/>
@@ -170,15 +168,12 @@ Here are some ideas to get you started:
             alt="https://solved.ac/dms">
         </a>
     </td>
-      <!--
     <td valign="middle" >
         <h3 style="font-weight:bold;"> [  Recent Blog Post  ]</h3>
         <a href="https://eundms.tistory.com/" rel="stylesheet">
-            <img src="https://tistory-readme-stats.vercel.app/api?name=eundms"
-            alt="https://eundms.tistory.com/">
+            Tech Blog
         </a> 
     </td>
-       -->
     </tr>
     </table>  
 </div>
