@@ -173,6 +173,9 @@ Here are some ideas to get you started:
         <a href="https://eundms.tistory.com/" rel="stylesheet">
             Tech Blog
         </a> 
+       <a href="https://daily-log.vercel.app/">
+          Commit Logs
+       </a>
     </td>
     </tr>
     </table>  
