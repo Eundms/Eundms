@@ -32,10 +32,11 @@ Actively documents learning and reflections through a personal blog.
  -->
 
   
-  <!-- Activities Section -->
+  <!-- Activities Section
   <h2>📚 Ongoing Journey</h2>
   <p>
     <a href="https://eundms.tistory.com/" target="_blank">📖 Tech Blog</a> | 
     <a href="https://daily-log.vercel.app/" target="_blank">📅 Daily Commit Logs</a> |
     <a href="https://solved.ac/dms" target="_blank">🏆 Solved.ac Profile</a>
   </p>
+-->
